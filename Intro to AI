@@ -6,16 +6,13 @@
             • Perception
             • Action
 
-->  Intelligence -:
-            •Find solutions to complex problems
+->  Intelligence : Find solutions to complex problems
 
 
-->  Artificial Intelligence : Phenomenon of decoding human intelligence 
-    to machines
+->  Artificial Intelligence : Phenomenon of decoding human intelligence to machines
 
 
 ->  Flowchart
-
                               Algorithms
                                   ↑
                   Constraints exposed by representative
@@ -27,23 +24,54 @@
                       Thinking, Perception and action
 
 
-
 ->  Types of AI -:
             • Weak AI / Artificial Narrow Intelligence : when machines has limited range of abilities
             • Strong AI / Artificial General Intelligence : machines work at par with humans
             • Artificial Super Intelligence : machines match and surpass the human mind
 
-    eg. Alexa & Siri,Self driving cars etc.
+
+->  eg. Alexa & Siri,Self driving cars etc.
 
 
+->  AI is progressing nowadays because : (1)  Greater Computational power
+                                         (2)  Availability of huge data
+                                         (3)  Best Algos
 
 
+->  Approaches of AI :
+            • Thinking humanly  => 
+                            * Through interospection 
+                            * Through psychological experiments.
+            • Thinking rationally =>
+                            * Laws of thoughts/logic 
+                            * Syllogism approach
+            • Acting humanly =>
+                            * Turing test approach
+            • Acting rationally =>
+                            * Rational agent approach
 
 
+->  Requirements for machine to pass the turing test :
+            • Natural Language Processing : In order to communicate successfully in naturally language with the machine.
+            • Knowledge Representation : to store what the machine knows or hears.
+            • Automated Reasoning : to use the stored information to answer questions and to draw new conclusions.
+            • Machine Learning : to detect and extrapolate patterns and to adapt new circumstances.
 
 
+->  In order to pass the total turing test, a machine must possess:
+            • Computer Vision : to perceive objects.
+            • Robotics : to manipulate and move objects.
 
 
-
+->  Scope of AI :
+            • Medical domain
+            • Online gaming
+            • Future prediction
+            • Marketing
+            • Banking
+            • Agriculture
+            • Society
+            • Self driving vehicles
+            • Social media
 
 
