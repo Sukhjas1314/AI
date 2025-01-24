@@ -75,13 +75,24 @@
             • Social media
 
 
-->  Agents :
+->  Agents :-
             • That can perceive its environment through sensors and act through actuators.
             • eg. Human agents have eyes,ears etc. as sensors & legs,mouth,hands etc. as actuators.
             • eg. Robotic agents have cameras,infrared range etc. as sensors & various motors,arms etc. as actuators.
             • Software agemnts have keystrokes,file contents,network packets etc. as sensors and acts by displaying on 
               screen,writing files,sending network packets.
             • Every agent can percieve its own actions but not always its effects.
+
+
+->  Imp terms for agents :-
+            • Percept : Perceptual input at any given instant.
+            • Percept sequence : Complete history of everything that the agent has ever perceived.
+            • Agent function : Mathematicallly described = f : P* -> A (maps any given percept sequence to an action).
+            • Agent program : It is concrete representation, running on the agent architecture.
+
+            • eg. Vacuum cleaner world problem
+            • Rational agents : Every entry in the table for the agent function is correct.
+            
 
 
 
