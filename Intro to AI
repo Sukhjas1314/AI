@@ -75,3 +75,36 @@
             • Social media
 
 
+->  Agents :
+            • That can perceive its environment through sensors and act through actuators.
+            • eg. Human agents have eyes,ears etc. as sensors & legs,mouth,hands etc. as actuators.
+            • eg. Robotic agents have cameras,infrared range etc. as sensors & various motors,arms etc. as actuators.
+            • Software agemnts have keystrokes,file contents,network packets etc. as sensors and acts by displaying on 
+              screen,writing files,sending network packets.
+            • Every agent can percieve its own actions but not always its effects.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
