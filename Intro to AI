@@ -94,7 +94,21 @@
             • Rational agents : Every entry in the table for the agent function is correct.
             
 
+->  Types of environments :
+            • Fully observable Vs Partially observable
+            • Deterministic Vs Stochastic
+            • Episodic Vs Sequential
+            • Static Vs Dynamic
+            • Discrete Vs Continuous
+            • Single agent Vs multiagent
 
+
+->  Types of Agents : 
+            • Simple-reflex /Reactive agents
+            • Model-based reflex/ Deliberative agents
+            • Goal-based agents
+            • Utility-based agents
+            • Learning agents
 
 
 
